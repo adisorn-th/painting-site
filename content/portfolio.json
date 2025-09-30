@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "รีโนเวท-ทาสีภายใน-คอนโด-บางนา",
+    "title": "รีโนเวท ทาสีภายใน คอนโด (บางนา)",
+    "category": "interior",
+    "area": "บางนา",
+    "date": "2025-08-20",
+    "size_sqm": 38,
+    "colors": [
+      "Off-white",
+      "Warm Grey"
+    ],
+    "brand": "Nippon (เช็ดล้างง่าย)",
+    "cover": "/gallery/interior-sofa-art-1.jpg",
+    "alt": "ทาสีภายในคอนโด โทนอบอุ่น บางนา",
+    "before": {
+      "src": "/gallery/interior-sofa-art-2.jpg",
+      "w": 1200,
+      "h": 900,
+      "alt": "ก่อนทาสีภายใน"
+    },
+    "after": {
+      "src": "/gallery/hero-livingroom-arch.jpg",
+      "w": 1200,
+      "h": 900,
+      "alt": "หลังทาสีภายใน"
+    },
+    "gallery": [
+      {
+        "src": "/gallery/interior-sofa-art-1.jpg",
+        "w": 1200,
+        "h": 900,
+        "alt": "ห้องนั่งเล่นหลังทาสี"
+      },
+      {
+        "src": "/gallery/interior-sofa-art-2.jpg",
+        "w": 1200,
+        "h": 900,
+        "alt": "ผนังหัวเตียงโทนสว่าง"
+      }
+    ],
+    "summary": "ทาสีใหม่ทั้งห้อง เปลี่ยนจากโทนเข้มเป็นโทน Off‑white + Warm Grey เพื่อให้ห้องกว้างและสว่างขึ้น พร้อมเก็บโป๊ว/รองพื้น",
+    "testimonial": {
+      "name": "คุณนก",
+      "text": "งานเนียน เก็บงานสะอาด ถูกใจมากค่ะ"
+    }
+  },
+  {
+    "slug": "ทาสีภายนอก-บ้านเดี่ยว-ลาดพร้าว",
+    "title": "ทาสีภายนอก บ้านเดี่ยว (ลาดพร้าว)",
+    "category": "exterior",
+    "area": "ลาดพร้าว",
+    "date": "2025-07-05",
+    "size_sqm": 180,
+    "colors": [
+      "White",
+      "Graphite"
+    ],
+    "brand": "TOA 4 Seasons (ภายนอก)",
+    "cover": "/gallery/exterior-modern-house.jpg",
+    "alt": "ทาสีภายนอกบ้านเดี่ยว ลาดพร้าว",
+    "before": {
+      "src": "/gallery/ext-condo-1.png",
+      "w": 900,
+      "h": 900,
+      "alt": "ก่อนทาสีภายนอก"
+    },
+    "after": {
+      "src": "/gallery/exterior-modern-house.jpg",
+      "w": 1200,
+      "h": 900,
+      "alt": "หลังทาสีภายนอก"
+    },
+    "gallery": [
+      {
+        "src": "/gallery/exterior-modern-house.jpg",
+        "w": 1200,
+        "h": 900,
+        "alt": "มุมเต็มหน้าบ้าน"
+      },
+      {
+        "src": "/gallery/ext-condo-1.png",
+        "w": 900,
+        "h": 900,
+        "alt": "รายละเอียดผิวก่อนทาสี"
+      }
+    ],
+    "summary": "ซ่อมแตกร้าว/กันซึม แล้วทาสีภายนอกใหม่โทนขาว‑เทา เพิ่มความสว่างและโมเดิร์น ทนแดดฝน",
+    "testimonial": {
+      "name": "คุณต่อ",
+      "text": "ทีมงานตรงเวลา งานละเอียด สีทนฝนดี"
+    }
+  },
+  {
+    "slug": "พ่นสีเฟอร์นิเจอร์-built-in-นนทบุรี",
+    "title": "พ่นสีเฟอร์นิเจอร์ Built‑in (นนทบุรี)",
+    "category": "furniture",
+    "area": "นนทบุรี",
+    "date": "2025-06-18",
+    "size_sqm": 12,
+    "colors": [
+      "Ivory",
+      "Matte Clear"
+    ],
+    "brand": "Lacquer (งานพ่น)",
+    "cover": "/gallery/furniture-wardrobe.jpg",
+    "alt": "พ่นสีตู้เสื้อผ้า Built-in นนทบุรี",
+    "before": {
+      "src": "/gallery/furniture-wardrobe.jpg",
+      "w": 1200,
+      "h": 900,
+      "alt": "ก่อนพ่นสี"
+    },
+    "after": {
+      "src": "/gallery/furniture-wardrobe.jpg",
+      "w": 1200,
+      "h": 900,
+      "alt": "หลังพ่นสี (ตัวอย่าง)"
+    },
+    "gallery": [
+      {
+        "src": "/gallery/furniture-wardrobe.jpg",
+        "w": 1200,
+        "h": 900,
+        "alt": "ผิวเคลือบด้านเนียน"
+      }
+    ],
+    "summary": "ขัด/โป๊ว/รองพื้น แล้วพ่นแลคเกอร์สีงาช้าง เคลือบด้าน เนียนกริบเหมาะกับงาน Built‑in",
+    "testimonial": {
+      "name": "คุณฟ้า",
+      "text": "เรียบร้อย เนียนสวย ส่งมอบทันกำหนดค่ะ"
+    }
+  }
+]
