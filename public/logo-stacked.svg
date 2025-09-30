@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+
+  <defs>
+    <linearGradient id="grad-brand" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8f9bff"/>
+      <stop offset="60%" stop-color="#4f5ce6"/>
+      <stop offset="100%" stop-color="#30388c"/>
+    </linearGradient>
+    <clipPath id="clipRound">
+      <rect x="0" y="0" width="100%" height="100%" rx="24" ry="24"/>
+    </clipPath>
+    <style><![CDATA[
+      .thai { font-family: 'Kanit','Sarabun','Noto Sans Thai','Prompt','sans-serif'; font-weight: 800; }
+      .latin { font-family: 'Montserrat','Inter','Kanit','Sarabun','Noto Sans','sans-serif'; font-weight: 600; }
+    ]]></style>
+  </defs>
+
+<g clip-path="url(#clipRound)">
+  <rect width="800" height="800" fill="white"/>
+  
+    <g transform="translate(180,140) scale(2.0)">
+      <path d="M40 55 L80 25 L120 55 V120 H40 Z" fill="none" stroke="#30388c" stroke-width="6" stroke-linejoin="round"/>
+      <rect x="68" y="85" width="24" height="35" rx="4" fill="#30388c"/>
+      <rect x="122" y="40" width="44" height="18" rx="9" fill="url(#grad-brand)"/>
+      <rect x="162" y="58" width="6" height="18" rx="3" fill="#30388c"/>
+      <rect x="148" y="76" width="12" height="36" rx="3" fill="#30388c"/>
+      <path d="M166 49 C210 50, 240 78, 240 110
+               C240 130, 220 148, 190 150
+               C160 152, 140 142, 130 132" fill="none" stroke="url(#grad-brand)" stroke-width="20" stroke-linecap="round"/>
+    </g>
+    
+  <g transform="translate(100,520)" text-anchor="middle">
+    <text class="thai" x="300" y="0" font-size="80" fill="#30388c">สมพรเพ้นท์โปร</text>
+    <text class="latin" x="300" y="46" font-size="30" fill="#4f5ce6">Somphon Paint Pro</text>
+    <text class="latin" x="300" y="86" font-size="24" fill="#475569">087-245-0878 • กรุงเทพฯ-ปริมณฑล</text>
+  </g>
+</g>
+</svg>
